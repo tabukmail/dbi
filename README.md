@@ -1,1 +1,4 @@
-SQL - accounting app workshop
+SQL & Python
+-----------------------
+Accounting app workshop
+
