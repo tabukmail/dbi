@@ -1,1 +1,1 @@
-#Demo
+SQL - accounting app workshop
