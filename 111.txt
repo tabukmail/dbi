@@ -1,0 +1,18 @@
+﻿|row_to_json                                                                                         |
+|----------------------------------------------------------------------------------------------------|
+|{"parent_id":0,"names":"root","ktval":201,"qbval":201,"d":0}                                        |
+|{"parent_id":1,"names":"node 2","ktval":100,"qbval":null,"d":100}                                   |
+|{"parent_id":2,"names":"node 5","ktval":100,"qbval":null,"d":100}                                   |
+|{"parent_id":5,"names":"leaf 10","ktval":100,"qbval":null,"d":100}                                  |
+|{"parent_id":5,"names":"leaf 11","ktval":null,"qbval":null,"d":0}                                   |
+|{"parent_id":1,"names":"node 3","ktval":101,"qbval":101,"d":0}                                      |
+|{"parent_id":3,"names":"leaf 6","ktval":51,"qbval":50,"d":1}                                        |
+|{"parent_id":3,"names":"node 7","ktval":null,"qbval":null,"d":0}                                    |
+|{"parent_id":7,"names":"leaf 12","ktval":null,"qbval":null,"d":0}                                   |
+|{"parent_id":7,"names":"leaf 13","ktval":null,"qbval":null,"d":0}                                   |
+|{"parent_id":7,"names":"leaf 14","ktval":null,"qbval":null,"d":0}                                   |
+|{"parent_id":3,"names":"leaf 8","ktval":50,"qbval":51,"d":-1}                                       |
+|{"parent_id":1,"names":"node 4","ktval":null,"qbval":100,"d":-100}                                  |
+|{"parent_id":4,"names":"node 9","ktval":null,"qbval":100,"d":-100}                                  |
+|{"parent_id":9,"names":"leaf 15","ktval":null,"qbval":null,"d":0}                                   |
+|{"parent_id":9,"names":"leaf 16","ktval":null,"qbval":100,"d":-100}                                 |
