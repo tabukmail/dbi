@@ -9,7 +9,7 @@ SELECT
 	LEFT JOIN (SELECT dt, SUM(lv) AS z FROM ledger GROUP BY ledger.dt) AS w ON P2.id=w.dt
 	LEFT JOIN (SELECT ct, SUM(lv) AS j FROM ledger GROUP BY ledger.ct) AS y ON P2.id=y.ct
 	WHERE
-		P2.left_key BETWEEN P1.left_key AND P1.right_key --and P1.levels<3
+		P2.left_key BETWEEN P1.left_key AND P1.right_key --- and ktval notnull and qbval notnull --and P1.levels<3
 	GROUP BY
 		P1.left_key, P1.names
 	ORDER BY
