@@ -1,8 +1,8 @@
 ﻿SELECT
 		P1.names,
 		SUM(w.z) AS ktval,
-		SUM(y.j) AS qbval			
-		--COALESCE(SUM(w.z),0)- COALESCE(SUM(y.j),0) AS d
+		SUM(y.j) AS qbval,			
+		COALESCE(SUM(w.z),0)- COALESCE(SUM(y.j),0) AS d
 		FROM
 		my_tree AS P1,
 		my_tree AS P2
