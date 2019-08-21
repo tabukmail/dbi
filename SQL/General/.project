@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>General</name>
+	<comment>General DBeaver project</comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+		<nature>org.jkiss.dbeaver.DBeaverNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>Scripts/SQL</name>
+			<type>2</type>
+			<location>//home/bali/git/accrepo/SQL/</location>
+		</link>
+	</linkedResources>
+</projectDescription>

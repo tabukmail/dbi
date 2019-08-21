@@ -1,0 +1,24 @@
+{
+	"folders": {},
+	"connections": {
+		"postgres-jdbc-16cb0adf71f-6ac99f0ceebe1cfd": {
+			"provider": "postgresql",
+			"driver": "postgres-jdbc",
+			"name": "PostgreSQL - dbnamep",
+			"save-password": true,
+			"read-only": false,
+			"configuration": {
+				"host": "postinst.cusvzgebqy8z.eu-central-1.rds.amazonaws.com",
+				"port": "3306",
+				"database": "dbnamep",
+				"url": "jdbc:postgresql://postinst.cusvzgebqy8z.eu-central-1.rds.amazonaws.com:3306/dbnamep",
+				"type": "dev",
+				"provider-properties": {
+					"@dbeaver-show-non-default-db@": "false",
+					"@dbeaver-show-template-db@": "false"
+				},
+				"handlers": {}
+			}
+		}
+	}
+}
